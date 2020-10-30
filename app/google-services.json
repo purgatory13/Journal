@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "690501099459",
+    "firebase_url": "https://self-93b7c.firebaseio.com",
+    "project_id": "self-93b7c",
+    "storage_bucket": "self-93b7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690501099459:android:4e1032721a219e49e66776",
+        "android_client_info": {
+          "package_name": "com.kollodgedesign.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690501099459-90vmdcihb0ps0mato3as0kurj0b52a4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kollodgedesign.journal",
+            "certificate_hash": "095b47b15a7bf0034ece1687fac5e839c6307ed7"
+          }
+        },
+        {
+          "client_id": "690501099459-a01qns0ts638pp5mlmnof8avidopbgq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4PlTm1uteoP03FYDy0qww3XPJDFT_dK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690501099459-a01qns0ts638pp5mlmnof8avidopbgq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
